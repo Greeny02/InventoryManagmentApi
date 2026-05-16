@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "InventoryManagementAPI.Controllers.InventoryController",
+    "Method": "CheckIfExists",
+    "RelativePath": "Inventory/exists/{barcode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "barcode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InventoryManagementAPI.Controllers.InventoryController",
+    "Method": "Scan",
+    "RelativePath": "Inventory/scan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InventoryManagementAPI.Models.ScanRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
