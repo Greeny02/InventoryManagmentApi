@@ -1,21 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Mobile\\InventoryManagementAPI\\",
+  "WorkspaceRootPath": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventorymanagementapi\\inventorymanagementapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventorymanagementapi\\inventorymanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\persistence\\migrations\\20260628145500_seedadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\persistence\\migrations\\20260628145500_seedadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventorymanagementapi\\inventorymanagementapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventorymanagementapi\\inventorymanagementapi\\models\\scanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|c:\\projects\\mobile\\inventory management\\inventorymanagementapi\\inventorymanagementapi\\models\\scanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C2B535-B6DC-472A-ACF0-C4C4B94D7076}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\scanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,28 +66,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\Product.cs",
-              "ToolTip": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Product.cs",
-              "RelativeToolTip": "InventoryManagementAPI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20260628145500_SeedAdminUser.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Persistence\\Migrations\\20260628145500_SeedAdminUser.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Persistence\\Migrations\\20260628145500_SeedAdminUser.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Persistence\\Migrations\\20260628145500_SeedAdminUser.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Persistence\\Migrations\\20260628145500_SeedAdminUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T08:36:36.652Z",
+              "WhenOpened": "2026-06-28T15:12:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Enums\\UserRole.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:53:55.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T20:36:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:43:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:10:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAApwIkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T09:43:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:19:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\appsettings.json",
+              "RelativeToolTip": "InventoryManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T15:09:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:06:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:07:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:01:36.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:36:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ScanRequest.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\ScanRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\ScanRequest.cs",
               "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\ScanRequest.cs",
-              "ToolTip": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\ScanRequest.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\ScanRequest.cs",
               "RelativeToolTip": "InventoryManagementAPI\\Models\\ScanRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,29 +232,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\Mobile\\Inventory Management\\InventoryManagementAPI\\InventoryManagementAPI\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T20:43:29.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "InventoryManagementAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Projects\\Mobile\\InventoryManagementAPI\\InventoryManagementAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "InventoryManagementAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-02T20:36:52.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T15:08:38.219Z"
             }
           ]
         }

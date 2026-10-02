@@ -1,5 +1,6 @@
 ﻿using InventoryManagementAPI.Models;
 using InventoryManagementAPI.Persistence;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,6 +8,7 @@ namespace InventoryManagementAPI.Controllers
 {
     [ApiController]
     [Route("/[controller]")]
+    [Authorize]
     public class InventoryController : ControllerBase
     {
         private readonly AppDbContext _context;
